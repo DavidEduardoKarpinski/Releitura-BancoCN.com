@@ -1,0 +1,176 @@
+.body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.primeiro-titulo {
+    color: #FEFEFE;
+    margin-left: 7em;
+    margin-top: 1.3em;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 700;
+}
+
+.abrangidos-bg {
+    background-image: url(../img/city.jpg);
+    background-size: cover;
+    opacity: 1;
+    image-rendering: crisp-edges;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #FEFEFE;
+    font-size: 16px;
+    padding: 10px 11px;
+    font-weight: 700;
+}
+
+.primeiro-titulo,
+.navbar {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navbar {
+    margin-left: 750px;
+    margin-top: -60px
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.exibicao {
+    text-align: center;
+    color: #FEFEFE;
+    font-size: 25px;
+    margin-top: 5.9cm;
+}
+
+.exibicaoII {
+    text-align: center;
+    color: #FEFEFE;
+    font-size: 50px;
+    margin-top: .5in;
+    padding-bottom: 2.6in;
+}
+
+.img-presidente {
+    width: 50%;
+    height: 15cm;
+}
+
+.img-presidente,
+.txt {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title-about {
+    color: #333333;
+    font-size: 36px;
+    margin-bottom: 2.5cm;
+}
+
+.p-about {
+    color: #333333;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.txt {
+    margin-left: 1.5cm;
+}
+
+.artigo {
+    background-color: #f1eeee;
+}
+
+.rodape {
+    background-color: black;
+    color: #F8F8F8;
+    padding: 80px 0 0.70in 0;
+}
+
+.copyright {
+    margin-left: 1.1in;
+}
+
+.copyright,
+.txt-rdp {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.txt-rdp {
+    margin-left: 750px;
+    line-height: 2;
+}
+
+.qb {
+    color: #24B662;
+}
+
+.bg-contato {
+    background-image: url(../img/monumento.jpg);
+    background-size: cover;
+    image-rendering: optimizeSpeed;
+}
+
+.ctt,
+.tel {
+    color: #F8F8F8;
+    text-align: center;
+    font-weight: 600;
+}
+
+.ctt {
+    font-size: 20px;
+    margin-top: 2.011111in;
+}
+
+.tel {
+    font-size: 22px;
+    margin-top: 1.5cm;
+    margin-bottom: 2.5in;
+}
+
+.main-emp {
+    color: #F8F8F8;
+    line-height: 2;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2in;
+    padding-bottom: 2.5in;
+    font-weight: 700;
+}
+
+.bg-emprestimos {
+    background-image: url(../img/bg-empréstimos.jpg);
+    background-size: cover;
+    opacity: 1;
+    image-rendering: optimizeQuality;
+}
+
+.error {
+    height: 674px;
+}
+
+.map-iframe {
+    width: 100%;
+    margin-top: 1in;
+}
+
+.bg-localizacao {
+    background-color: black;
+    background-size: cover;
+}
+
+.map-title {
+    color: #F8F8F8;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 2em;
+}
